@@ -1,0 +1,11 @@
+MUMMMYIBLOG PLUGIN IN DEUTSCH
+
+Sag einfach "neues Blog" oder "neues RSS".
+
+So installierst Du dieses Plugin: 
+
+# 1: Lade den "blog" ordner in ~/SiriServerCore/plugins/ 
+
+# 2: Fügen Sie "blog" in plugins.conf ein
+
+FERTIG
